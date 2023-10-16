@@ -12,4 +12,4 @@ https://emrhdmn.github.io/shoe-site-main/
 
 ## `Screen`
 
-![](/screen.png) #shoe-site
+![](/screen.gif) #shoe-site
